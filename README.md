@@ -39,15 +39,15 @@ Generates random, syntactically valid Minecraft Java Edition usernames using a b
 ## Installation
 
 ```bash
-git clone https://github.com/PeleaRaul/MCUsernameGenerator.git
-cd MCUsernameGenerator
+git clone https://github.com/PeleaRaul/UsernamesGenerator.git
+cd UsernamesGenerator
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-python minecraft_username_generator.py
+python Usernames.py
 ```
 
 The GUI launches with no arguments. Configure your settings on the left panel and click **GENERATE**.
