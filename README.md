@@ -1,7 +1,9 @@
 # MC Username Generator v2
 
 A companion app to **CyberScan Suite** and **ProxyScraper v3**.
-Generates random, syntactically valid Minecraft Java Edition usernames using a built-in database of 600+ real first names.
+Generates random, syntactically valid Minecraft Java Edition (Cracked) usernames using a built-in database of 600+ real first names.
+This python app is used for "SoulFire" or other Minecraft Bot Stress Testers to generate random usernames to test your private server performance!
+Do not use on systems you don't own!
 
 ## What's New in v2
 
